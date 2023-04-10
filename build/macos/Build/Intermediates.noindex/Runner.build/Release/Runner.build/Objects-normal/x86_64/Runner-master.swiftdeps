@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "52906c61cc7ac3e9a7426f89d31e759624b0c5e6c5426fffd0fe465aa9d82274"
+build_start_time: [1681146235, 901112079]
+build_end_time: [1681146238, 657857894]
+inputs:
+  "/Users/loldude/Desktop/coursach/filesys/filesys/macos/Flutter/GeneratedPluginRegistrant.swift": [1681146223, 719448566]
+  "/Users/loldude/Desktop/coursach/filesys/filesys/macos/Runner/AppDelegate.swift": [1664393702, 0]
+  "/Users/loldude/Desktop/coursach/filesys/filesys/macos/Runner/MainFlutterWindow.swift": [1664393702, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "a372f7b31613fb6ba84b15776c67a6a863aa5ae2229b436a661a5ca674949ede"
+build_start_time: [1681138223, 111939907]
+build_end_time: [1681138229, 136504173]
+inputs:
+  "/Users/loldude/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.4/macos/Classes/UrlLauncherPlugin.swift": [1680982661, 121672153]

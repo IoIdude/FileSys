@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "0de27c7ae69e5132eb80eedbf06efb37d97ecf91b76a0e4bd1b501e92a1a25cc"
+build_start_time: [1680982934, 96064090]
+build_end_time: [1680982934, 221060037]
+inputs:
+  "/Users/loldude/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.1.5/macos/Classes/SharedPreferencesPlugin.swift": [1680709862, 868807315]
+  "/Users/loldude/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.1.5/macos/Classes/messages.g.swift": [1680709862, 877399921]
